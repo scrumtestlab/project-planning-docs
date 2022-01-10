@@ -1,5 +1,3 @@
-![Membrete](../css/MembreteBatoi.png)
-
 # UD4 - PRACTICA2 - Gusteau's Menu
 
 * [1. Introducció](#1-introducció)
@@ -17,7 +15,7 @@
 
 ![Gusteau's Menu](md_media/gusteaus_logo.png)
 
-En aquesta unitat de treball, anem a posar en valor l'aprés a la unitat anterior i aquesta, al tems que ens serveix per a repassar. 
+En aquesta unitat de treball, anem a posar en valor l'aprés a la unitat anterior i aquesta, al tems que ens serveix per a repassar.
 
 El que es preten aconseguir es el següent:
 
@@ -25,6 +23,7 @@ El que es preten aconseguir es el següent:
 * Gestionar i planificar les tasques utilitzant github
 * Gestionar el desenolupament del codi font mitjançant git
 * Utilitzar git i github en per a treballar en grup.
+* Repassar els conceptes vists a les unitats anteriors.
 
 ## 1. Introducció
 
@@ -50,7 +49,7 @@ Ara podem accedir a la nostra organitizació nova, en el cas de la creada per al
 
 1. **Overview** - Ens mostra els repositoris publics e informació
 2. **Repositories** - Tots els repositoris creats de la organització
-3. **Packages** - Packets creats per a distribuir el software
+3. **Packages** - Paquets creats per a distribuir el software
 4. **People** - Membres de la organització, en aquesta secció es en la que podem afegir  a nous membres.
 5. **Teams** - Equips que ens permeten agrupar membres i gestionar els repositoris i els permisos.
 6. **Projects** - Projectes de la Organització ( Aquests projectes ens permeten agrupar repositoris)
@@ -71,7 +70,7 @@ Quan accedim a aquesta finestra, ens permet crear projectes i tenim dues opcions
 
 Nosaltres hem creat un nou projecte beta, de forma que ens permet crear diferents vistes de gestió del projecte, i es completament personalitzable.
 
-El projecte que hem creat [Gusteau's Menu](https://github.com/orgs/scrumtestlab/projects/2) ens permet gestionar totes les tasques de desenvolupament relacionades en la millora de la carta del restaurant. Ens permet tindre totes les vistes que necessitem:
+El projecte que hem creat [Gusteau's Menu][Gusteau's Menu] ens permet gestionar totes les tasques de desenvolupament relacionades en la millora de la carta del restaurant. Ens permet tindre totes les vistes que necessitem:
 
 1. Una vista per a la gestió de Backlog ( En mode Projecte Beta)
 2. Un altra per a la gestió de l'Sprint ( En mode kanban)
@@ -94,9 +93,7 @@ En aquesta vista, hem definit el **Project Plan** que es una vista personalitzad
 
 #### 2.3.2. Camps personalitzats
 
-Des de el botó :heavy_plus_sign: se'ns mostra un menú que ens permet realitzar les següents accions:
-
-![Afegint un nou camp](md_media/github_project_fields.png)
+Des de el botó :heavy_plus_sign: se'ns mostra un menú que ens permet realitzar les següents **accions**:
 
 1. **(+ New Field)** - Aquest camp en permet crear els següents valors personalitzats per a les tasques
    * Camp de Text
@@ -111,6 +108,8 @@ Des de el botó :heavy_plus_sign: se'ns mostra un menú que ens permet realitzar
 7. **Linked Pull Requests**
 8. **Repository**
 
+![Afegint un nou camp](md_media/github_project_fields.png)
+
 > Els valors del 4 al 8 no estaran disponibles mentre aquesta tasca no estigui també a un repositori, es a dir, tinga un repositori git associat.
 
 > Com es pot observar, podem utilitzar emojis per a millorar la visibilitat del nom de les categories
@@ -124,7 +123,11 @@ Per a facilitar la gestió del projecte mitjançant Scrum, s'ha proposat modific
 
 Una vegada tenim mes o menys clar com treballar y les categories creades, procedim a anar creant les tasques ( encara que no es necessari que estiguen totes les categories creades ). Afegim totes les tasques que necessitem i, una vegada creades, podem modificar la seua descripció en `markdown` seleccionant la tasca:
 
+Descripció de la Tasca:
+
 ![Descripció de la Tasca](md_media/github_project_task_description.png)
+
+Descripció de la Tasca en Markdown:
 
 ![Descripció de la Tasca en Markdown](md_media/github_project_task_description_markdown.png)
 
@@ -140,18 +143,18 @@ Una vegada tenim configurades totes aquestes tasques, hem de decidir si les asso
 
 1. Establiu grups de 3 persones amb un màxim de 4.
 2. Creeu una organització i afegiu-se tots els membres del grup com a usuaris amb privilegis d'edició ( afegiu també a l'usuari arturocandela ).
-3. Utilitzant com a referència el projecte [Gusteau's Menu][Gusteau's Menu] crea la pila del producte ( amb la informació del projecte )
-4. Realitza la reunió de l'Sprint Plan per a decidir les tasques i crea l'SprintBacklog ( amb ajuda del PO i Scrum Master arturocandela)
+3. Utilitzant com a referència el projecte [Gusteau's Menu][Gusteau's Menu] crea la pila del producte ( Backlog - amb la informació del projecte que s'indica )
+4. Realitza la reunió de l'Sprint Planning per a decidir les tasques i estableix l'SprintBacklog ( amb ajuda del PO i Scrum Master - arturocandela) 
 5. Crea un nou repositori per a que tots els membres del grup puguen treballar.
 6. Associa les tasques necessaries / crea'n de noves per a poder realitzar tots els elements del backlog.
 7. Cada membre del grup, ha de començar a treballar en la seua tasca i assignarse-la, encara que possiblement, per a l'apartat del menú, tingueu que treballar tots a una.
-8. Cal gestionar les branques adequadament, cal crear una nova branca per cada tasca que estiga desenvolupant-se.
-9. Quan es faça un commit/push, cal tancar la tasca si ja està finalitzada.
+8. Cal gestionar les branques adequadament, cal crear una nova branca per cada tasca que estiga desenvolupant-se,
+9. Quan es faça un commit/push, cal tancar la tasca si ja està finalitzada i realitzar el pull-request.
 10. Una vegada finalitzat tots els commits, es realitzarà l'Sprint Review/Retrospective a classe.
 
 ### 3.1. Presentació
 
-* [ ] Enllaç al projecte
+* [ ] Enllaç al projecte a github ( una entrega per grup)
 
 ## 4. Bibliografia
 
