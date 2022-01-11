@@ -31,6 +31,8 @@ L'equip de desenvolupament de la carta del restaurant *Gusteau's Menu* utilitza 
 
 Per a implementar Scrum, es poden utilitzar moltes ferramentes, en aquest cas, es pot utilitzar Github per a fer-ho utilitzant [el nou sistema beta beta de gestió de projectes](https://docs.github.com/es/issues/trying-out-the-new-projects-experience/about-projects), que ens permet tindré una visió i un control del nostre desenvolupament més enllà de la gestió d'un únic projecte associat a un repositori. 
 
+Els camps que podem crear son: status, sprint, etc.
+
 ## 2. Configuració de Github com a ferramenta Scrum
 
 Per a utilitzar github com a ferrameta bàsica d'Scrum, s'han de realizar i tenir en compte les següents configuracions que son algunes necessàries i altres opcionals per al desenvolupament.
