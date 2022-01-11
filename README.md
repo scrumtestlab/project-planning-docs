@@ -173,6 +173,7 @@ Una vegada tenim configurades totes aquestes tasques, hem de decidir si les asso
 
 4. [Adaptar la vista del projecte][Adaptar la vista del projecte]
 
+5. Com utilitzar els issues en el commit
 
 
 [makdown]: https://markdown.es/sintaxis-markdown/
